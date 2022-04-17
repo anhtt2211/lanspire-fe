@@ -47,9 +47,9 @@ yarn start
 
 ## Authors
 
-- [Trung Huỳnh](https://github.com/akaijs/)
-- [Đỗ Văn Bảo](https://github.com/baodv1001/)
-- [Phan Ngọc Quang](https://github.com/QuanggPn/)
+- [Trung Huỳnh](https://github.com/trunghq234)
+- [Đỗ Văn Bảo](https://github.com/baodv1001)
+- [Phan Ngọc Quang](https://github.com/quangpn24)
 - [Trần Thế Anh](https://github.com/anhtt2211/)
 
 ## Feedback
